@@ -1,0 +1,1 @@
+sec-edgar-downloader>=3.0.5
