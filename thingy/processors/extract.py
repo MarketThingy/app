@@ -26,11 +26,37 @@ from typing import List
 
 
 class REGEXPS:
-    HEADER = regex.compile(r'<sec-header>(.*)</sec-header>', regex.IGNORECASE | regex.DOTALL)
-    DOCUMENT = regex.compile(r'<document>(.*?<text>.+?</text>.*?)</document>', regex.IGNORECASE | regex.DOTALL)
-    ATTRS = regex.compile(r'^<(.+?)>(.+)$', regex.IGNORECASE | regex.MULTILINE)
-    TEXT = regex.compile(r'<text>(.*)</text>', regex.IGNORECASE | regex.DOTALL)
-    IS_UUENCODED = regex.compile(r'^\s*begin \d+ .*end\s*$', regex.DOTALL)
+    HEADER = regex.compile(flags=regex.IGNORECASE | regex.DOTALL | regex.VERBOSE, pattern=r'''
+        <sec-header>    # opening tag
+        (.*)            # header content
+        </sec-header>   # closing tag''')
+    HEADER_CONTENTS = regex.compile(flags=regex.MULTILINE | regex.VERBOSE, pattern=r'''
+         ^                          # beginning of the line
+         .*?                        # discard any text at the beginning of the line (non-greedy)
+         (?<spacing>[\t]*)          # record any spacing tabs
+         (?<key>[^\n\t]*):          # A line might in the format of `KEY: VALUE`
+            \t*(?<value>.*)         # ... where the key value does't have any tabs
+         |                          # Or a line might be ...
+         <(?<key>.*)>(?<value>.*)   # a `<TAG>VALUE`
+         $                          # end of the line
+    ''')
+    DOCUMENT = regex.compile(flags=regex.IGNORECASE | regex.DOTALL | regex.VERBOSE, pattern=r'''
+        <document>                  # opening tag
+        (.*?<text>.+?</text>.*?)    # extract the payload which must contain TEXT tags
+        </document>                 # closing tag''')
+    ATTRS = regex.compile(flags=regex.IGNORECASE | regex.MULTILINE | regex.VERBOSE, pattern=r'''
+        ^               # anchor to the beginning of the line
+        <(.+?)>         # attribute tag
+        (.+)            # attribute value
+        $               # Get to the end of the line''')
+    TEXT = regex.compile(flags=regex.IGNORECASE | regex.DOTALL | regex.VERBOSE, pattern=r'''
+        <text>          # opening tag
+        (.*)            # text content
+        </text>         # closing tag''')
+    IS_UUENCODED = regex.compile(flags=regex.DOTALL | regex.VERBOSE, pattern=r'''
+        ^\s*begin \d+   # uuencoded line should begin with `begin` and then a mode (eg: 644)
+        .*              # encoded body
+        end\s*$         # end of encoding''')
 
 
 class _EDGAR_Document:
@@ -106,8 +132,17 @@ class EDGAR_Archive:
         self.documents = _EDGAR_Document.find_all(content, self.logger)
 
         if (result := REGEXPS.HEADER.search(content)) is not None:
-            header_txt = REGEXPS.ATTRS.sub(r'\1: \2', result.groups()[0]).replace('\t', ' ' * 4)
-            self.header = yaml.load(header_txt)
+            # The header content is in YAML ... but of course it is not quite YAML
+            # ... so we'll parse out the elements and then form proper YAML that we can parse
+            header_txt = '\n'.join(
+                f'{" " * 4 * len(spacing)}{key}:' + (f' "{value.strip()}"' if value else '')
+                for spacing, key, value in REGEXPS.HEADER_CONTENTS.findall(result.groups()[0])
+            )
+            try:
+                self.header = yaml.safe_load(header_txt)
+            except yaml.error.YAMLError:
+                self.logger.error('Unable to load header', header_txt=header_txt)
+                raise
 
         if not self.header:
             raise RuntimeError('Unable to find header')

@@ -10,7 +10,7 @@ def all(target: str, logger: structlog.stdlib.BoundLogger):
     count = 0
 
     for path in (target / 'sec_edgar_filings').glob('*/*/*.txt'):
-
+        count += 1
         logger.info('Processing archive', path=path, count=count)
 
         with open(path) as fp:
