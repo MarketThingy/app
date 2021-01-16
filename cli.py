@@ -26,9 +26,7 @@ def cli():
 def download(symbol: Tuple[str], target: str, filing: Tuple[str]):
     '''Download SYMBOL [SYMBOL] ...
 
-
     Where SYMBOLs are stock ticker symbol
-
     '''
 
     logger = structlog.get_logger()
@@ -37,7 +35,7 @@ def download(symbol: Tuple[str], target: str, filing: Tuple[str]):
     for _symbol in symbol:
         for _filing in filing:
             logger.info('Downloading SEC documents', symbol=_symbol, filing=_filing)
-            downloader.get(filing, symbol)
+            downloader.get(_filing, _symbol)
 
 
 @cli.command()
