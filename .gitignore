@@ -3,3 +3,6 @@
 
 # Data files
 archive/
+
+# Temporary files
+*.pyc
