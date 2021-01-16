@@ -1,0 +1,1514 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WRKA98onkwl4P9PzSvWNT34akeaFS002DJJ3NnJ85xS/QgTVRSY5zvO1/yxsYBAQ
+ SD6i09Hr4IMiU+TxT5gMUg==
+
+<SEC-DOCUMENT>/in/edgar/work/0000950134-00-009503/0000950134-00-009503.txt : 20001114
+<SEC-HEADER>0000950134-00-009503.hdr.sgml : 20001114
+ACCESSION NUMBER:		0000950134-00-009503
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEWPARK RESOURCES INC
+		CENTRAL INDEX KEY:			0000071829
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [4953
+]		IRS NUMBER:				721123385
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-02960
+			FILM NUMBER:		760603
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		3850 N. CAUSEWAY BLVD
+				STREET 2:		SUITE 1770
+				CITY:			METAIRIE
+				STATE:			LA
+				ZIP:			70002
+				BUSINESS PHONE:		5048388222
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		P O BOX 6411
+					STREET 2:		II LAKEWAY CENTER STE 1770
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	NEW PARK MINING CO
+						DATE OF NAME CHANGE:	19720828
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d81832e10-q.txt
+<DESCRIPTION>FORM 10-Q FOR QUARTER ENDED SEPTEMBER 30, 2000
+<TEXT>
+
+<PAGE>   1
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                    FORM 10-Q
+
+
+               QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the quarterly period ended September 30, 2000     Commission File No. 1-2960
+
+
+                             NEWPARK RESOURCES, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+                 DELAWARE                                  72-1123385
+      (State or other jurisdiction of                   (I.R.S. Employer
+       incorporation or organization)                  Identification No.)
+
+
+       3850 N. CAUSEWAY, SUITE 1770
+            METAIRIE, LOUISIANA                               70002
+    (Address of principal executive offices)               (Zip Code)
+
+
+                                 (504) 838-8222
+                         (Registrant's telephone number)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                Yes  X    No
+                                    ---       ---
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock as of the latest practicable date.
+
+Common stock, $0.01 par value: 69,521,125 shares at November 10, 2000.
+
+
+================================================================================
+
+<PAGE>   2
+
+
+
+                             NEWPARK RESOURCES, INC.
+                               INDEX TO FORM 10-Q
+                        FOR THE THREE MONTH PERIOD ENDED
+                               September 30, 2000
+
+
+<TABLE>
+<CAPTION>
+
+   Item                                                                                             Page
+   Number       Description                                                                        Number
+   ------       -----------                                                                        ------
+<S>            <C>                                                                                <C>
+
+                PART I
+
+      1         Unaudited Consolidated Financial Statements:
+                    Balance Sheets as of September 30, 2000 and
+                         December 31, 1999 ............................................................3
+                    Statements of Operations for the Three Month and Nine
+                         Month Periods Ended September 30, 2000 and 1999...............................4
+                    Statements of Comprehensive Income for the Nine Month
+                         Periods Ended September 30, 2000 and 1999.....................................5
+                    Statements of Cash Flows for the Nine Month Periods
+                         Ended September 30, 2000 and 1999.............................................6
+                    Notes to Unaudited Consolidated Financial Statements ..............................7
+      2         Management's Discussion and Analysis of Financial
+                    Condition and Results of Operations...............................................12
+
+                PART II
+
+      6         Exhibits and Reports on Form 8-K......................................................23
+                Signatures ...........................................................................24
+</TABLE>
+
+
+
+                                       2
+
+
+
+
+<PAGE>   3
+
+Newpark Resources, Inc.
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                               September 30,      December 31,
+(In thousands, except share data)                                  2000              1999
+- ---------------------------------                              --------------    --------------
+<S>                                                            <C>               <C>
+ASSETS
+
+CURRENT ASSETS:
+      Cash and cash equivalents                                $        2,273    $        4,517
+      Accounts and notes receivable, less allowance
+          of $4,133 in 2000 and $10,836 in 1999                        69,207            57,906
+      Inventories                                                      24,524            17,524
+      Deferred tax asset                                               13,071            10,463
+      Other current assets                                              5,458             8,767
+                                                               --------------    --------------
+          TOTAL CURRENT ASSETS                                        114,533            99,177
+
+Property, plant and equipment, at cost, net of
+      accumulated depreciation                                        181,892           166,603
+Cost in excess of net assets of purchased businesses,
+      net of accumulated amortization                                 112,558           116,465
+Deferred tax asset                                                     26,206            33,595
+Other assets                                                           34,627            34,701
+                                                               --------------    --------------
+                                                               $      469,816    $      450,541
+                                                               ==============    ==============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+      Notes payable                                            $           --    $          627
+      Current maturities of long-term debt                                407               991
+      Accounts payable                                                 24,067            29,232
+      Accrued liabilities                                              16,446            14,453
+      Arbitration settlement payable                                    3,641             5,630
+                                                               --------------    --------------
+          TOTAL CURRENT LIABILITIES                                    44,561            50,933
+
+Long-term debt                                                        199,960           209,210
+Arbitration settlement payable                                             --             2,451
+Other non-current liabilities                                           1,622             1,608
+Commitments and contingencies                                              --                --
+
+STOCKHOLDERS' EQUITY:
+      Preferred Stock, $.01 par value, 1,000,000 shares
+          authorized, 270,000 shares outstanding                       43,410            13,009
+      Common Stock, $.01 par value, 100,000,000 shares
+          authorized,  69,519,487 shares outstanding in 2000
+          and 69,079,243 in 1999                                          695               690
+      Paid-in capital                                                 328,582           322,724
+      Unearned restricted stock compensation                           (3,163)           (3,838)
+      Accumulated other comprehensive income (loss)                      (942)              250
+      Accumulated deficit                                            (144,909)         (146,496)
+                                                               --------------    --------------
+          TOTAL STOCKHOLDERS' EQUITY                                  223,673           186,339
+                                                               --------------    --------------
+                                                               $      469,816    $      450,541
+                                                               ==============    ==============
+</TABLE>
+
+     See Accompanying Notes to Unaudited Consolidated Financial Statements.
+
+
+                                       3
+<PAGE>   4
+
+
+Newpark Resources, Inc.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Three and Nine Month Periods Ended September 30,
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                      Three Months Ended       Nine Months Ended
+                                                                         September 30,           September 30,
+                                                                    ----------------------    ----------------------
+(In thousands, except per share data)                                 2000         1999         2000         1999
+- ------------------------------------                                ---------    ---------    ---------    ---------
+<S>                                                                 <C>          <C>          <C>          <C>
+Revenues                                                            $  68,987    $  50,921    $ 186,466    $ 144,224
+Operating costs and expenses:
+    Cost of services provided                                          40,415       35,967      112,045       99,423
+    Operating costs                                                    15,744       13,802       44,314       42,774
+                                                                    ---------    ---------    ---------    ---------
+
+                                                                       56,159       49,769      156,359      142,197
+General and administrative expenses                                       587          738        2,238        1,899
+Goodwill amortization                                                   1,243        1,197        3,733        3,730
+Terminated merger expenses                                                 --        2,400           --        2,400
+                                                                    ---------    ---------    ---------    ---------
+
+Operating income (loss)                                                10,998       (3,183)      24,136       (6,002)
+Interest income                                                          (178)        (241)        (636)        (771)
+Interest expense                                                        4,576        4,171       13,926       12,190
+                                                                    ---------    ---------    ---------    ---------
+
+Income (loss) before income taxes and
+    cumulative effect of accounting change                              6,600       (7,113)      10,846      (17,421)
+Provision for income taxes (benefit)                                    2,670          805        4,380       (4,819)
+                                                                    ---------    ---------    ---------    ---------
+
+Income (loss) before cumulative effect
+    of accounting change                                                3,930       (7,918)       6,466      (12,602)
+Cumulative effect of accounting change,
+    (less applicable income taxes)                                         --           --           --        1,471
+                                                                    ---------    ---------    ---------    ---------
+
+Net income (loss) before effects of preferred stock                     3,930       (7,918)       6,466      (11,131)
+
+Less:
+    Preferred stock dividends and accretion                               637          300        1,350          550
+    Non-cash conversion feature at preferred stock issuance                --           --        3,529           --
+                                                                    ---------    ---------    ---------    ---------
+
+Net income (loss) applicable to common and common
+    equivalent shares                                               $   3,293    $  (8,218)   $   1,587    $ (11,681)
+                                                                    =========    =========    =========    =========
+
+Weighted average common and common equivalent shares outstanding:
+    Basic                                                              69,299       68,986       69,174       68,917
+                                                                    =========    =========    =========    =========
+    Diluted                                                            70,315       68,986       69,940       68,917
+                                                                    =========    =========    =========    =========
+
+Income (loss) per common share:
+    BASIC:
+    Income (loss) before cumulative effect of accounting
+       change and effects of preferred stock                        $    0.06    $   (0.11)   $    0.09    $   (0.18)
+    Preferred stock dividends and accretion                             (0.01)       (0.00)       (0.02)       (0.01)
+    Non-cash conversion feature at preferred stock issuance                --           --        (0.05)          --
+                                                                    ---------    ---------    ---------    ---------
+    Income (loss) before cumulative effect                               0.05        (0.12)        0.02        (0.19)
+    Cumulative effect of accounting change                                 --           --           --         0.02
+                                                                    ---------    ---------    ---------    ---------
+
+       Net income (loss)                                            $    0.05    $   (0.12)   $    0.02    $   (0.17)
+                                                                    =========    =========    =========    =========
+
+    DILUTED:
+    Income (loss) before cumulative effect of accounting
+       change and effects of preferred stock                        $    0.06    $   (0.11)   $    0.09    $   (0.18)
+    Preferred stock dividends and accretion                             (0.01)       (0.00)       (0.02)       (0.01)
+    Non-cash conversion feature at preferred stock issuance                --           --        (0.05)          --
+                                                                    ---------    ---------    ---------    ---------
+    Income (loss) before cumulative effect                               0.05        (0.12)        0.02        (0.19)
+    Cumulative effect of accounting change                                 --           --           --         0.02
+                                                                    ---------    ---------    ---------    ---------
+       Net income (loss)                                            $    0.05    $   (0.12)   $    0.02    $   (0.17)
+                                                                    =========    =========    =========    =========
+</TABLE>
+
+     See Accompanying Notes to Unaudited Consolidated Financial Statements.
+
+
+                                       4
+
+<PAGE>   5
+
+Newpark Resources, Inc.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+For the Nine Month Periods Ended September 30,
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+(In thousands)                                         2000        1999
+- --------------                                       --------    --------
+<S>                                                  <C>         <C>
+Net income  (loss)                                   $  6,466    $(11,131)
+
+Other comprehensive income (loss):
+          Foreign currency translation adjustments     (1,192)        851
+                                                     --------    --------
+
+Comprehensive income (loss)                          $  5,274    $(10,280)
+                                                     ========    ========
+</TABLE>
+
+
+     See Accompanying Notes to Unaudited Consolidated Financial Statements.
+
+
+
+
+                                       5
+
+<PAGE>   6
+
+
+
+Newpark Resources, Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Nine Month Periods Ended September 30,
+(Unaudited)
+
+<TABLE>
+<CAPTION>
+(In thousands)                                                                   2000        1999
+- ---------------                                                                --------    --------
+<S>                                                                            <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income (loss)                                                              $  6,466    $(11,131)
+
+Adjustments to reconcile net income (loss) to net cash provided by operating
+      activities:
+      Depreciation and amortization                                              17,099      21,011
+      Provision for deferred income taxes (benefits)                              4,781      (4,819)
+      Cumulative effect of accounting change                                         --      (1,471)
+      Other                                                                        (674)        (50)
+Change in assets and liabilities, net of effects of acquisitions:
+      Decrease (increase) in accounts and notes receivable                      (12,615)        224
+      Increase in inventories                                                    (7,000)     (3,389)
+      Decrease in other assets                                                      396       9,631
+      Decrease  in accounts payable                                              (5,384)     (5,440)
+      Decrease in accrued liabilities and other                                  (2,490)     (1,532)
+                                                                               --------    --------
+          NET CASH PROVIDED BY OPERATING ACTIVITIES                                 579       3,034
+                                                                               --------    --------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+      Capital expenditures                                                      (24,732)    (32,832)
+      Proceeds from disposal of property, plant and equipment                       974         386
+      Payments received on notes receivable                                         558       1,415
+                                                                               --------    --------
+          NET CASH USED IN INVESTING ACTIVITIES                                 (23,200)    (31,031)
+                                                                               --------    --------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+      Proceeds from preferred stock offering                                     29,725      14,750
+      Net borrowings on lines of credit                                             817       1,091
+      Proceeds from equipment leasing                                                63       9,320
+      Principal payments on notes payable and long-term debt                    (11,341)     (1,318)
+      Proceeds from exercise of stock options                                     1,113         512
+                                                                               --------    --------
+          NET CASH PROVIDED BY FINANCING ACTIVITIES                              20,377      24,355
+                                                                               --------    --------
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS                                        (2,244)     (3,642)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR                                    4,517       6,611
+                                                                               --------    --------
+
+CASH AND CASH EQUIVALENTS AT END OF THE PERIOD                                 $  2,273    $  2,969
+                                                                               ========    ========
+</TABLE>
+
+
+Included in accounts payable and accrued liabilities at September 30, 2000 and
+1999 were equipment purchases of approximately $1.5 million and $2.4 million,
+respectively.
+
+Interest of $11.2 million and $10.7 million was paid during the nine months
+ending September 30, 2000 and 1999, respectively. There were no income taxes
+paid during the nine months ending September 30, 2000. Income tax refunds, net
+of payments, totaled $11.8 million for the nine months ending September 30,
+1999.
+
+
+     See Accompanying Notes to Unaudited Consolidated Financial Statements.
+
+                                       6
+<PAGE>   7
+
+
+
+                             NEWPARK RESOURCES, INC.
+              NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+A.      INTERIM FINANCIAL STATEMENTS
+
+        In the opinion of management, the accompanying unaudited consolidated
+financial statements reflect all adjustments necessary to present fairly the
+financial position of Newpark Resources, Inc. ("Newpark" or the "Company") as of
+September 30, 2000, and the results of its operations and its cash flows for the
+three month and nine month periods ended September 30, 2000 and 1999. All such
+adjustments are of a normal recurring nature. These interim financial statements
+should be read in conjunction with the December 31, 1999 audited financial
+statements and related notes filed on Form 10-K, as amended. The results of
+operations for the three month and nine month periods ended September 30, 2000
+are not necessarily indicative of the results to be expected for the entire
+year.
+
+        Certain reclassifications of prior period amounts have been made to
+conform to the current period presentation.
+
+B.       SALE OF SOLIDS CONTROL OPERATIONS
+
+         In September 1999, management adopted a plan to discontinue its solids
+control operations and simultaneously entered into an alliance agreement with a
+division of Tuboscope, which is now providing some of these services to
+Newpark's customers. The operating results for the solids control operations are
+included in the results for the fluids sales and engineering segment. All solids
+control contracts were completed during the second quarter of 2000. Revenues
+from the solids control operations totaled $2.0 million in the third quarter of
+1999. Revenues from the solids control operations totaled approximately $883,000
+for the first nine months of 2000 and $5.3 million for the first nine months of
+1999. These operations were at break even for the third quarter and first nine
+months of 2000, and generated operating losses of approximately $2.2 million in
+the third quarter of 1999 and $4.5 million for the first nine months of 1999.
+
+         The 1999 results for the solids control operations had previously been
+reported as discontinued operations in the financial statements. The previously
+filed financial statements have been restated to reflect the inclusion of the
+results for the solids control operations as part of continuing operations of
+the fluids sales and engineering segment.
+
+         The following table shows the previously reported and restated amounts:
+
+<TABLE>
+<CAPTION>
+                                                    Three Months             Nine Months
+                                                Ended September 30,      Ended September 30,
+                                                        1999                    1999
+                                               ---------------------    ---------------------
+<S>                                            <C>                      <C>
+As previously reported-
+
+   Loss from continuing operations before
+     cumulative effect of accounting changes   $              (6,602)   $              (9,866)
+
+   Net loss                                    $              (7,918)   $             (11,131)
+</TABLE>
+
+
+                                        7
+
+<PAGE>   8
+
+<TABLE>
+<CAPTION>
+                                                      Three Months           Nine Months
+                                                  Ended September 30,    Ended September 30,
+                                                         1999                   1999
+                                                  -------------------    -------------------
+<S>                                               <C>                    <C>
+   Loss per common and common equivalent share:
+   Basic:
+   Continuing operations                          $              (.10)   $              (.15)
+   Net loss                                       $              (.12)   $              (.17)
+
+   Diluted:
+   Continuing operations                          $              (.10)   $              (.15)
+   Net loss                                       $              (.12)   $              (.17)
+
+As restated-
+
+   Loss before cumulative effect of accounting
+     changes                                      $            (7,918)   $           (12,602)
+
+   Net loss                                       $            (7,918)   $           (11,131)
+
+   Loss per common and common equivalent share:
+   Basic:
+   Loss before cumulative effect of accounting
+     changes                                      $              (.11)   $              (.18)
+   Net loss                                       $              (.12)   $              (.17)
+
+   Diluted:
+   Loss before cumulative effect of accounting
+     changes                                      $              (.11)   $              (.18)
+   Net loss                                       $              (.12)   $              (.17)
+</TABLE>
+
+C.      EARNINGS PER SHARE
+
+        Basic net income (loss) per share was calculated by dividing net income
+by the weighted-average number of common shares outstanding during the period.
+Diluted net income per share for the quarter and nine months ended September 30,
+2000 were calculated by dividing net income by the weighted-average number of
+common shares outstanding during the period plus the weighted-average number of
+dilutive stock options and warrants, which totaled 1,016,000 shares and 766,000
+shares for the respective periods. Options and warrants which were considered
+antidilutive because the exercise prices exceeded the average price for the
+applicable period totaled approximately 1.6 million shares and 2.7 million
+shares during the quarter and nine months ended September 30, 2000,
+respectively.
+
+        Since the Company incurred a loss per share for the quarter and nine
+months ended September 30, 1999, all effects of options and warrants were
+excluded from the calculations of diluted loss per share for these periods.
+Options and warrants excluded from the
+
+                                       8
+
+<PAGE>   9
+
+computation of diluted loss per share for these periods that could potentially
+dilute basic EPS in the future totaled 7,529,000 shares.
+
+D.      ACCOUNTS AND NOTES RECEIVABLE
+
+        Included in current accounts and notes receivable at September 30, 2000
+and December 31, 1999 are:
+
+<TABLE>
+<CAPTION>
+(In thousands)
+                                    2000        1999
+                                  --------    --------
+<S>                               <C>         <C>
+Trade receivables                 $ 68,209    $ 62,051
+Unbilled revenues                      840       2,874
+                                  --------    --------
+Gross trade receivables             69,049      64,925
+Allowance for doubtful accounts     (4,133)    (10,836)
+                                  --------    --------
+Net trade receivables               64,916      54,089
+Notes and other receivables          4,291       3,817
+                                  --------    --------
+        Total                     $ 69,207    $ 57,906
+                                  ========    ========
+</TABLE>
+
+        During the quarter ended September 30, 2000, previously reserved
+receivables of approximately $6.7 million were written off against the allowance
+balance upon settlement of all claims.
+
+E.      INVENTORY
+
+        The Company's inventory consisted of the following items at September
+30, 2000 and December 31, 1999:
+
+
+<TABLE>
+<CAPTION>
+(In thousands)                    2000      1999
+                                -------   -------
+<S>                             <C>       <C>
+Drilling fluids raw materials
+   and components               $18,010   $13,062
+Composite mats                      223        --
+Logs                              5,074     3,338
+Supplies                            407       724
+Other                               810       400
+                                -------   -------
+   Total                        $24,524   $17,524
+                                =======   =======
+</TABLE>
+
+F.      LONG-TERM DEBT
+
+        As of September 30, 2000, the Company has outstanding $125 million of
+unsecured senior subordinated notes (the "Notes") which mature on December 15,
+2007. Interest on the Notes accrues at the rate of 8-5/8% per annum and is
+payable semi-annually on June 15 and December 15.
+
+        As of September 30, 2000, the Company also maintained a $100.0 million
+bank credit facility, including up to $20.0 million in standby letters of
+credit, in the form of a revolving line of credit commitment, which expires
+December 31, 2001. At September 30, 2000, $15.8 million in letters of credit
+were issued and outstanding under the credit facility and $73.5 million was
+outstanding under the revolving facility, leaving $10.7 million of availability
+under this facility at September 30, 2000. The facility bears interest at either
+a specified prime rate (9.5% at September 30, 2000) or the LIBOR rate (6.68% at
+September
+
+                                       9
+
+<PAGE>   10
+
+30, 2000) plus a spread determined quarterly based on the ratio of the
+Company's funded debt to cash flow. The current interest rate under the credit
+facility is prime plus .75% (10.25% at November 3, 2000) or LIBOR plus 3.25%
+(9.85% at November 3, 2000). The Company was in compliance with all financial
+covenants of the credit facility as of September 30, 2000.
+
+G.      SEGMENT DATA
+
+        Summarized financial information concerning the Company's reportable
+segments is shown in the following table (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                       Three Months Ended
+                                          September 30,                Change
+                                      ---------------------    ----------------------
+                                          2000      1999            $            %
+                                      ---------   ---------    ---------    ---------
+<S>                                   <C>         <C>          <C>          <C>
+Revenues by segment:
+E&P waste disposal                    $  15,409   $   9,856    $   5,553           56%
+Fluids sales & engineering               33,806      25,932        7,874           30
+Mat & integrated services                19,772      15,133        4,639           31
+                                      ---------   ---------    ---------
+    Total                             $  68,987   $  50,921    $  18,066           35%
+                                      =========   =========    =========
+
+Operating income (loss) by segment:
+E&P waste disposal                    $   5,297   $   2,353    $   2,944          125%
+Fluids sales & engineering                2,140      (1,921)       4,061           NM
+Mat & integrated services                 5,391         720        4,671          649
+                                      ---------   ---------    ---------
+   Total by segment                      12,828       1,152       11,676        1,014
+General and administrative expenses         587         738         (151)         (20)
+Goodwill amortization                     1,243       1,197           46            4
+Terminated merger expenses                   --       2,400       (2,400)          NM
+                                      ---------   ---------    ---------
+    Total operating income (loss)     $  10,998   $  (3,183)   $  14,181           NM%
+                                      =========   =========    =========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                       Nine Months Ended
+                                          September 30,                Change
+                                      ---------------------    ----------------------
+                                          2000      1999            $            %
+                                      ---------   ---------    ---------    ---------
+<S>                                   <C>         <C>          <C>          <C>
+Revenues by segment:
+E&P waste disposal                    $  41,647   $  30,623    $  11,024           36%
+Fluids sales & engineering               93,538      68,281       25,257           37
+Mat & integrated services                51,281      45,320        5,961           13
+                                      ---------   ---------    ---------
+    Total                             $ 186,466   $ 144,224    $  42,242           29%
+                                      =========   =========    =========
+
+Operating income (loss) by segment:
+E&P waste disposal                    $  13,408   $   9,459    $   3,949           42%
+Fluids sales & engineering                6,069      (9,562)      15,631           NM
+Mat & integrated services                10,630       2,130        8,500          399
+                                      ---------   ---------    ---------
+    Total by segment                      2,027       1,385
+General and administrative expenses       2,238       1,899          339           18
+Goodwill amortization                     3,733       3,730            3            0
+Terminated merger expenses                   --       2,400       (2,400)          NM
+                                      ---------   ---------    ---------
+    Total operating income (loss)     $  24,136   $  (6,002)   $  30,138           NM%
+                                      =========   =========    =========
+</TABLE>
+
+
+  The figures above are shown net of intersegment transfers.
+
+                                       10
+
+<PAGE>   11
+
+H.      CHANGE IN METHOD OF ACCOUNTING FOR DEPRECIATION
+
+        The Company computes the provision for depreciation on certain of its
+E&P waste and NORM disposal assets and its barite grinding mills using the
+unit-of-production method. The unit-of-production method of providing for
+depreciation on these assets was adopted in the second quarter of 1999,
+effective January 1, 1999. Prior to 1999, the Company computed the provision for
+depreciation of these assets on a straight-line basis.
+
+        The reported income for the nine months ended September 30, 1999 was
+increased by $1,471,000 (related per share amounts of $.02 basic and diluted)
+reflecting the cumulative effect (net of income taxes) on years prior to 1999
+for the change in accounting for depreciation.
+
+
+
+
+                                       11
+
+<PAGE>   12
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+         The following discussion of our financial condition, results of
+operations, liquidity and capital resources should be read together with our
+"Unaudited Consolidated Financial Statements" and "Notes to Unaudited
+Consolidated Financial Statements" as well as our annual report on form 10-K for
+the year ended December 31, 1999, as amended.
+
+RESULTS OF OPERATIONS
+
+         Our operating results depend primarily on the level of oil and gas
+drilling activity in the markets we serve. These levels in turn depend, to a
+great extent, on oil and gas commodities pricing, inventory levels and product
+demand. Key average rig count data for the last several quarters is listed in
+the following table:
+
+<TABLE>
+<CAPTION>
+                                     1Q99      2Q99     3Q99     4Q99     1Q00     2Q00     3Q00
+                                     -----    -----    -----    -----    -----    -----    -----
+<S>                                  <C>      <C>      <C>      <C>      <C>      <C>      <C>
+U.S. Rig Count                         551      521      637      773      770      845      982
+Gulf Coast market                      185      172      183      213      223      240      270
+Gulf Coast market to total            33.6%    33.0%    28.7%    27.6%    29.0%    28.4%    27.5%
+Canadian Rig Count                     290      104      253      337      480      212      314
+</TABLE>
+
+- ---------
+Source:  Baker Hughes Incorporated
+
+           The Gulf Coast market, our primary market, accounted for
+approximately 75% of revenues for the first nine months of 2000 and includes:
+(1) South Louisiana Land; (2) Texas Railroad Commission Districts 2 and 3; (3)
+Louisiana and Texas Inland Waters; and (4) Offshore Gulf of Mexico. According to
+Baker Hughes Incorporated, as of the week ended November 3, 2000, the U.S. rig
+count was 1,078, with 283 rigs, or 26.3%, within our primary market. The
+quarterly fluctuations in the Canadian rig count generally reflect the seasonal
+nature of drilling activity related to drilling site access. As of the week
+ended November 3, 2000, the Canadian rig count was 362.
+
+         Average crude oil and natural gas prices for the last several quarters
+is listed in the following table:
+
+<TABLE>
+<CAPTION>
+                                          1Q99     2Q99     3Q99     4Q99     1Q00     2Q00     3Q00
+                                         ------   ------   ------   ------   ------   ------   ------
+<S>                                      <C>      <C>      <C>      <C>      <C>      <C>      <C>
+West Texas Inter. Crude ($/bbl)          $13.17   $17.66   $21.72   $24.52   $28.91   $28.95   $31.70
+U.S. Spot Natural Gas ($/mcf)            $ 1.80   $ 2.24   $ 2.55   $ 2.48   $ 2.63   $ 3.67   $ 4.49
+</TABLE>
+
+- ---------
+Source:  Wall Street Journal
+
+         Since the first quarter of 1999, we have seen steady improvement in
+crude oil and natural gas prices, which continued into the third quarter of
+2000. With the improvement in oil and gas prices in the second half of 1999, the
+average rig activity increased for the first time in six quarters during the
+third quarter of 1999. The increase in rig activity has continued through the
+third quarter of 2000, but has trailed the recovery in oil and gas prices.
+
+         During 2000, gas storage levels reached their lowest point in over
+three years, and current industry forecasts reflect a stable to growing demand
+for natural gas. In addition, current productive gas reserves are being depleted
+at a rate faster than current
+
+                                       12
+
+<PAGE>   13
+
+replacement through drilling activities. Accordingly, we believe that gas
+drilling activity will increase over current levels. Because many shallow fields
+in the Gulf Coast market have been exploited, producers are expected to increase
+the depth of drilling to reach larger gas reserves. As such, we expect gas
+drilling activity to be increasingly associated with deeper, more costly wells.
+
+         In September 1999, we decided to discontinue our solids control
+operations and simultaneously entered into an alliance agreement with a division
+of Tuboscope, which is now providing some of these services to our customers.
+Prior year results for these solids control operations were previously reported
+as discontinued operations. Operating results for the prior year have been
+restated to give effect to the reclassification of these results from a
+presentation as discontinued operations to a presentation as part of continuing
+operations of our fluids sales and engineering segment. Operating results for
+the quarter and nine months ended September 30, 1999 have also been restated to
+reflect the cumulative effect of an accounting change effective January 1, 1999.
+Summarized financial information concerning our reportable segments for the
+three month and nine month periods ended September 30, 2000 and 1999 is shown
+below:
+
+<TABLE>
+<CAPTION>
+                                       Three Months Ended
+                                          September 30,               Change
+                                      ---------------------    ----------------------
+                                        2000        1999           $            %
+                                      ---------   ---------    ---------    ---------
+<S>                                   <C>         <C>          <C>          <C>
+Revenues by segment:
+E&P waste disposal                    $  15,409   $   9,856    $   5,553           56%
+Fluids sales & engineering               33,806      25,932        7,874           30
+Mat & integrated services                19,772      15,133        4,639           31
+                                      ---------   ---------    ---------
+    Total                             $  68,987   $  50,921    $  18,066           35%
+                                      =========   =========    =========
+
+Operating income (loss) by segment:
+E&P waste disposal                    $   5,297   $   2,353    $   2,944          125%
+Fluids sales & engineering                2,140      (1,921)       4,061           NM
+Mat & integrated services                 5,391         720        4,671          649
+                                      ---------   ---------    ---------
+   Total by segment                      12,828       1,152       11,676        1,014
+General and administrative expenses         587         738         (151)         (20)
+Goodwill amortization                     1,243       1,197           46            4
+Terminated merger expenses                   --       2,400       (2,400)          NM
+                                      ---------   ---------    ---------
+    Total operating income (loss)     $  10,998   $  (3,183)   $  14,181           NM%
+                                      =========   =========    =========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                        Nine Months Ended
+                                          September 30,               Change
+                                      ---------------------    ----------------------
+                                        2000        1999           $            %
+                                      ---------   ---------    ---------    ---------
+<S>                                   <C>         <C>          <C>          <C>
+
+Revenues by segment:
+E&P waste disposal                    $  41,647   $  30,623    $  11,024           36%
+Fluids sales & engineering               93,538      68,281       25,257           37
+Mat & integrated services                51,281      45,320        5,961           13
+                                      ---------   ---------    ---------
+    Total                             $ 186,466   $ 144,224    $  42,242           29%
+                                      =========   =========    =========
+
+Operating income (loss) by segment:
+E&P waste disposal                    $  13,408   $   9,459    $   3,949           42%
+Fluids sales & engineering                6,069      (9,562)      15,631           NM
+Mat & integrated services                10,630       2,130        8,500          399
+                                      ---------   ---------    ---------
+    Total by segment                     30,107       2,027       28,080        1,385
+
+General and administrative expenses       2,238       1,899          339           18
+Goodwill amortization                     3,733       3,730            3            0
+Terminated merger expenses                   --       2,400       (2,400)          NM
+                                      ---------   ---------    ---------
+    Total operating income (loss)     $  24,136   $  (6,002)   $  30,138           NM%
+                                      =========   =========    =========
+</TABLE>
+
+  The figures above are shown net of intersegment transfers.
+
+                                       13
+
+<PAGE>   14
+
+QUARTER ENDED SEPTEMBER 30, 2000 COMPARED TO QUARTER ENDED SEPTEMBER 30, 1999
+
+Revenues
+
+         E&P Waste Disposal: The $5.6 million, or 56%, increase in waste
+disposal revenue is attributable to the increases in drilling activity and the
+resulting increase in waste volumes received. Drilling rig activity in our
+primary gulf coast market increased 48% during the third quarter of 2000
+compared to the same period in 1999. During the third quarter of 2000, we
+received 1,091,000 barrels of E&P waste compared to 784,000 barrels in the
+comparable quarter of 1999, a 39% increase. Average revenue per barrel increased
+from $10.60 per barrel in 1999 to $11.51 per barrel in 2000. Revenues for the
+quarter ended September 30, 2000 included $574,000 from nonhazardous industrial
+disposal operations, which began in August 1999. Revenues from these operations
+were $176,000 in the comparable period of 1999. NORM revenues were $1.5 million
+in 2000, as compared to $600,000 in 1999.
+
+         Recently, we have seen an increase in activity in the environmentally
+sensitive South Louisiana Transition Zone, which should translate into future
+revenue growth if the trend continues. This development is important, since a
+Transition Zone drilling rig generates five to six times the waste volume of
+other, less tightly regulated markets. In addition, we are continuing to work
+with our customers to implement a 4% price increase, which we expect to be fully
+implemented by the end of the fourth quarter. This price increase is in response
+to increases in certain operating costs.
+
+         New offshore regulations regarding the limitation of discharges of
+synthetic fluids and drill cuttings containing synthetic fluids have recently
+been announced and are expected to be effective in early 2001. These
+regulations, as proposed, would eliminate the discharge of synthetic fluids and
+would reduce the allowable percentage of drill cuttings containing synthetic
+fluids to 6.9% of total discharges by volume. We expect to experience some
+increase in waste volumes as a result of these new regulations once they become
+effective.
+
+         Fluids Sales and Engineering: Fluids sales and engineering revenues
+increased $7.9 million, or 30%. During the third quarter of 2000, we serviced an
+average of 152 rigs, compared to 94 rigs in the third quarter of 1999. The
+average annualized revenue per rig was approximately $890,000 in the third
+quarter of 2000, compared to $881,000 for the third quarter of 1999. We are
+continuing to work with our customers to implement an average price increase of
+5%-6%, which we expect to be fully implemented by the end of the fourth quarter.
+
+                                       14
+
+<PAGE>   15
+
+         Revenues of this segment include revenues from solids control
+operations of approximately $2.0 million in the third quarter of 1999. There
+were no solids control revenues in the third quarter of 2000. These operations
+were discontinued in September 1999. Certain solids control contracts that
+remained in progress as of December 31, 1999 were completed by June 2000. The
+average annualized revenue per rig, excluding solids control revenues, was
+$791,000 for the third quarter of 1999.
+
+         Many of our drilling fluids customers are independent operators that
+are active in the inland waters and the shelf of the Gulf of Mexico markets.
+Recently these areas have seen an increase in activity. Drilling in these
+markets usually involves more complicated drilling programs resulting in greater
+amounts of drilling fluids sales and engineering services as compared to other
+land drilling markets.
+
+         Mat and Integrated Services: The $4.6 million, or 31%, increase in mat
+and integrated services revenues is due to both an increase in pricing and an
+increase in volume of mat locations associated with increases in drilling
+activity and expansion of Canadian operations. The average price per square foot
+for mat locations installed was $0.99 in the third quarter of 2000, compared to
+$0.59 in the third quarter of 1999 and $.71 in the second quarter of 2000. The
+average pricing in the prior year was negatively impacted by weak demand and the
+lack of Transition Zone work, which tends to earn a premium in pricing for mat
+locations due to the complexity and size of the projects. Beginning late in the
+third quarter of 2000, we have seen a significant increase in mat locations for
+drilling in the Transition Zone market, and we have indications from our
+customers that this market will continue to be active for the remainder of the
+year and into 2001. Should the activity in this market continue to increase, we
+believe it would have a positive impact on both revenues and operating margins
+for this segment.
+
+         Canadian mat revenues were $2.3 million in the third quarter of 2000,
+compared to $700,000 for the third quarter of 1999. Canadian mat revenues for
+2000 include rental charges associated with a pending sale of 1,000 mats to a
+Canadian E&P company, subject to a 60-day evaluation period. This customer has
+recently accepted these mats, for which additional sales revenues will be
+recorded in the fourth quarter. This customer has also agreed to purchase an
+additional 500 mats in the fourth quarter and is evaluating the purchase of more
+mats for projects planned during the spring of 2001 when site access problems
+traditionally begin to increase. We are continuing to pursue the military,
+governmental and commercial markets for sales of our composite mat system. We
+continue to believe that our efforts in this new market should begin to show
+positive results in the near future.
+
+Operating Income
+
+         E&P Waste Disposal: The $2.9 million increase in waste disposal
+operating income represents a 125% increase from the prior year period and an
+incremental margin (the increase in operating income divided by the increase in
+revenue) of 53%. Increases in certain operating costs, including barge rental,
+maintenance (in particular at our west Texas operations), personnel, fuel and
+utility costs, negatively impacted the incremental margin for this segment.
+Offsetting these increases in operating costs for the quarter was an increase in
+higher-margin NORM revenues from $600,000 in 1999 to $1.5 million in 2000.
+
+                                       15
+
+<PAGE>   16
+
+         As noted above, we are continuing to implement a 4% price increase.
+This price increase, along with moderating costs, are expected to improve the
+incremental margins for this segment over the remainder of the year.
+
+         Fluids Sales and Engineering: Fluids sales and engineering operating
+income increased $4.1 million on a $7.9 million increase in revenues. Operating
+income for this segment includes the results of our solids control operations,
+which were discontinued in September 1999. Included in the operating loss for
+the fluids sales and engineering segment for the quarter ended September 30,
+1999 is an operating loss of $2.2 million associated with solids control
+operations. Excluding the effects of the solids control operations in the prior
+year, operating income in this segment increased $1.9 million, representing an
+incremental margin of 19%.
+
+         The operating margin of the drilling fluids segment is affected by the
+mix of products sold. There is a significant difference in the gross margins
+recognized on commodity products, primarily barite, and those recognized for
+specialty products. We expect to recognize the benefits of newly introduced
+products such as DeepDrill(TM) and other specialty products as these products
+gain wider customer acceptance. We expect to obtain better margins on commodity
+products as market activity increases, which should improve pricing and lower
+product costs. In addition, as noted above, we are continuing to implement a
+5%-6% price increase over the remainder of 2000. The positive effects of these
+price increases and increases in the mix of higher margin products are expected
+to be partially offset by increases in certain operating costs, including fuel,
+personnel and infrastructure costs of expanded offshore base operations.
+
+         Mat and Integrated Services: Mat and integrated services operating
+income increased $4.7 million on a $4.6 million increase in revenues. The high
+incremental margin is attributable to reductions in operating costs and improved
+pricing due to favorable changes in mix; however, we do not anticipate that
+incremental margins will be as high in the future. During 1998 and 1999, we
+disposed of a significant portion of our domestic wooden mat fleet. In 1999, we
+also recorded an impairment charge for our remaining domestic wooden mat fleet,
+in response to both changing market conditions and our introduction of the new
+composite mat. This reduction in basis significantly lowered depreciation
+expense for the mat fleet. In addition, the significantly lower maintenance,
+transportation, and other associated costs, and substantially longer useful life
+of the composite mat system as compared to the wooden mat system are expected to
+enhance future operating margins for this segment. These benefits of the
+composite mat system are also expected to better position the segment to compete
+against competitive pricing pressures.
+
+Interest Income/Expense
+
+         Net interest expense was $4.4 million for the third quarter of 2000, an
+increase of $468,000, or 11.9%, as compared to $3.9 million for the third
+quarter of 1999. The increase in net interest cost is due to an increase in the
+average effective interest rate from 8.94% in 1999 to 9.48% in 2000. This
+increase in the effective interest rate was partially offset by a reduction in
+average borrowings outstanding of $2.6 million. In addition, interest
+capitalization decreased from $451,000 in the third quarter of 1999 to $220,000
+in the third quarter of 2000. As noted below, in June 2000, we issued $30
+million of preferred stock and warrants, the proceeds of which were used for the
+repayment of debt. During the third
+
+                                       16
+
+<PAGE>   17
+
+quarter of 2000, the interest rate on the credit facility was reduced from Prime
+plus 1.25% or LIBOR plus 4% to prime plus .75% or LIBOR plus 3.25% as financial
+ratios improved the variable grid pricing on our credit facility.
+
+Provision for Income Taxes
+
+         For the quarter ended September 30, 2000, we recorded an income tax
+provision of $2.7 million, reflecting an income tax rate of 40.5%. For the
+quarter ended September 30, 1999, we recorded an income tax provision of $805
+million, on a pretax loss of $7.1 million. The effective tax rate for 2000 is
+higher than statutory rates primarily due to effects of non-deductible goodwill
+and the comparatively low projected annual income from operations for 2000.
+
+Preferred Stock Dividends and Accretion of Discount
+
+         As discussed in Liquidity and Capital Resources below, in June 2000, we
+sold 120,000 shares of Series B Preferred Stock. In April 1999, we sold 150,000
+shares of Series A Preferred Stock. The Series B Preferred Stock is not
+redeemable. The Series A Preferred Stock is redeemable at our option anytime
+after April 16, 2004. For the quarter ended September 30, 2000, dividends
+totaling $525,000 were paid or accrued on preferred stock. This compares to
+$188,000 of dividends for the quarter ended September 30, 1999. The accretion of
+the discount on the Series A Preferred Stock was $112,000 for the quarter ended
+September 30, 2000 and 1999.
+
+NINE MONTHS ENDED SEPTEMBER 30, 2000 COMPARED TO NINE MONTHS ENDED
+SEPTEMBER 30, 1999
+
+Revenues
+
+         E&P Waste Disposal: The $11.0 million, or 36%, increase in waste
+disposal revenue is attributable to the increases in drilling activity and the
+resulting increase in waste volumes received. In these same periods, drilling
+rig activity in the Gulf Coast market, our primary market, increased 36%. During
+the first nine months of 2000, we received 3,094,000 barrels of E&P waste,
+compared to 2,361,000 barrels in the comparable period of 1999, a 31% increase.
+Average revenue per barrel increased slightly during the comparable periods. The
+nine months ended September 30, 2000 included $1.2 million of revenue from
+nonhazardous industrial disposal operations, which began in August 1999,
+compared to approximately $200,000 in 1999.
+
+         Fluids Sales and Engineering: Fluids sales and engineering revenues
+increased $25.3 million, or 37%. During the first nine months of 2000, we
+serviced an average of 138 rigs, compared to 82 rigs in the first nine months of
+1999. The annualized average revenue per rig was approximately $892,000 in the
+first nine months of 2000 compared to $1,024,000 for the first nine months of
+1999. The decline in the annualized revenue per rig is due to the mix of rig
+locations, with a lower percentage of rigs serviced in 2000 in the Gulf Coast
+market, which generates a larger volume of drilling fluids revenue per rig
+serviced. In addition, the annualized revenue per rig was impacted by the
+decision to discontinue operations of the solids control operations. Revenues
+from solids control operations were $883,000 for the first nine months of 2000
+and $5.3 million for the first nine months of 1999. The average revenue per rig
+excluding solids control revenues was $884,000 for the first nine months of 2000
+and $938,000 for the first nine months of 1999.
+
+                                       17
+
+<PAGE>   18
+
+         Mat and Integrated Services: The $6.0 million, or 13%, increase in mat
+and integrated services revenue is significantly lower than the increase in rig
+activity, primarily due to weakness in the wetlands and Transition Zone market
+in the first half of 2000. This weakness was partially offset by improvement in
+pricing and expansion of Canadian operations. The average price per square foot
+was $0.83 in the first nine months of 2000, compared to $0.64 in the first nine
+months of 1999. Canadian mat revenues were $5.2 million for the first nine
+months of 2000, compared to $1.3 million for the first nine months of 1999.
+
+Operating Income
+
+         E&P Waste Disposal: The $3.9 million increase in waste disposal
+operating income represents a 42% increase from the prior year period and an
+incremental margin of 36%. As noted above, increases in certain operating costs,
+including barge rental, maintenance, personnel, fuel and utility costs,
+negatively impacted the incremental margin for this segment. In addition, as
+noted previously, the mix of waste received during the first six months of 2000
+included a greater percentage of products that required special handling and
+processing costs that were unusual in nature, resulting in a lower than expected
+incremental margin.
+
+         Fluids Sales and Engineering: Fluids sales and engineering operating
+income increased $15.6 million on an increase in revenue of $25.3 million. The
+operating margin for the nine months ended September 30, 1999 included site
+closure and related costs of approximately $2.6 million. In addition, operating
+income for this segment includes the results of our solids control operations,
+which were discontinued in September 1999. Included in the operating loss for
+the fluids sales and engineering segment for the nine months ended September 30,
+1999 is an operating loss of $3.8 million associated with solids control
+operations. Excluding the effects of solids control operations and site closure
+costs in the prior year, operating income in this segment increased $9.2
+million, representing an incremental margin of 31%.
+
+         Mat and Integrated Services: The $8.5 million increase in mat and
+integrated services operating income is attributable to several factors. These
+include the $6.0 million increase in revenues, improved per unit pricing and
+reductions in operating costs, particularly depreciation, associated with
+resizing our domestic wooden mat fleet and introducing our new composite mat
+system, as noted above.
+
+Interest Income/Expense
+
+         Net interest expense was $13.3 million for 2000, an increase of $1.8
+million, or 16.4%, as compared to $11.4 million for 1999. The increase in net
+interest cost is due to an increase of $6.9 million in average outstanding
+borrowings and an increase in the average effective interest rate from 8.88% in
+1999 to 9.50% in 2000. In addition, interest capitalization decreased from $1.3
+million in the first nine months of 1999 to $740,000 in the first nine months of
+2000. The increase in average outstanding borrowings under our bank credit
+facility was primarily used to fund capital expenditures. As noted below, in
+June 2000, the Company issued $30 million of preferred stock, the proceeds of
+which where used to repay debt.
+
+                                       18
+
+<PAGE>   19
+
+Provision for Income Taxes
+
+         For the nine months ended September 30, 2000, we recorded an income tax
+provision of $4.4 million, reflecting an income tax rate of 40.4%. For the nine
+months ended September 30, 1999, we recorded an income tax benefit of $4.8
+million, reflecting an income tax benefit rate of 27.7%. The effective tax rate
+for 2000 is higher than statutory rates primarily due to effects of
+non-deductible goodwill and the comparatively low projected annual income from
+operations for 2000.
+
+Cumulative Effect of Accounting Change
+
+         Results for the nine months ended September 30, 1999 includes the
+cumulative effect, net of income taxes, of a change in accounting for
+depreciation on certain assets used in our barite grinding activity and in our
+waste disposal business. As a result of this change in accounting for
+depreciation, the reported income from operations for the nine months ended
+September 30, 1999 was increased by $1,471,000, with related per share amounts
+of $.02 basic and diluted. This reflects the cumulative effect, net of income
+taxes, of the change on years prior to 1999.
+
+Preferred Stock Dividends and Accretion of Discount
+
+         For the nine months ended September 30, 2000, dividends totaling $1.0
+million were paid or accrued on preferred stock. This compares to $344,000 of
+dividends for the first nine months of 1999. The accretion of the discount on
+the Series A Preferred Stock was $336,000 for the nine months ended September
+30, 2000. This compares to $206,000 for the nine months ended September 30,
+1999.
+
+         As required by EITF 98-5 "Accounting for Convertible Securities with
+Beneficial Conversion Features or Contingently Adjustable Conversion Ratios",
+during the nine months ended September 30, 2000, we recorded a one-time
+adjustment of $3.5 million ($.05 per share) to our equity accounts to reflect
+the value assigned to the conversion feature of the Series B Preferred Stock at
+the date of issuance. This adjustment did not have any effect on our operating
+results or total equity, and we issued no additional shares or cash.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The Company's working capital position increased by $21.7 million
+during the first nine months of 2000. Key working capital data is provided below
+(dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                                 September 30,      December 31,
+                                                     2000              1999
+                                                ---------------   ---------------
+<S>                                             <C>               <C>
+              Working Capital (000's)           $        69,972   $        48,244
+              Current Ratio                                2.57              1.95
+</TABLE>
+
+         Our long term capitalization was as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                   September 30,    December 31,
+                                                      2000              1999
+                                                 ---------------   ---------------
+<S>                                              <C>               <C>
+Long-term debt
+ (including current maturities):
+        Credit facility                          $        73,450   $        83,250
+        Subordinated debt                                125,000           125,000
+        Other                                              1,917             1,951
+                                                 ---------------   ---------------
+        Total long-term debt                             200,367           210,201
+
+Stockholders' equity                                     223,673           186,339
+                                                 ---------------   ---------------
+
+        Total capitalization                     $       424,040   $       396,540
+                                                 ===============   ===============
+</TABLE>
+
+                                       19
+
+<PAGE>   20
+
+         For the nine months ended September 30, 2000, our working capital needs
+were met primarily from the preferred stock offering discussed below. The net
+cash provided by financing activities of $20.5 million and net cash provided by
+operating activities of $504,000 helped to provide for total cash of $23.2
+million used in investing activities.
+
+         As of September 30, 2000, we also maintained a $100.0 million bank
+credit facility, including up to $20.0 million in standby letters of credit, in
+the form of a revolving line of credit commitment, which expires December 31,
+2001. We are currently in discussions with the banks to enter into a new $125
+million credit facility. This new facility is anticipated to have terms similar
+to the existing credit facility. These discussions are expected to be completed
+by December 31, 2000.
+
+         At September 30, 2000, $15.8 million in letters of credit were issued
+and outstanding under the credit facility and $73.5 million was outstanding
+under the revolving facility, leaving $10.7 million of availability under this
+facility at September 30, 2000. The facility bears interest at either a
+specified prime rate (9.5% at September 30, 2000) or the LIBOR rate (6.68% at
+September 30, 2000) plus a spread determined quarterly based on the ratio of our
+funded debt to cash flow. The current interest rate under the credit facility is
+prime plus .75% (10.25% at November 3, 2000) or LIBOR plus 3.25% (9.85% at
+November 3, 2000). We were in compliance with all financial covenants of the
+credit facility as of September 30, 2000.
+
+         Our Senior Subordinated Notes do not contain any financial covenants.
+However, if we do not meet the financial covenants of the Credit Facility and
+are unable to obtain an amendment from the banks, we would be in default under
+the Credit Facility, which would cause the Notes to be in default. The Notes and
+the Credit Facility also contain covenants that significantly limit the payment
+of dividends on our Common Stock.
+
+         On June 1, 2000, we completed the sale to Fletcher International
+Limited of 120,000 shares of Series B Convertible Preferred Stock, $0.01 par
+value per share (the "Series B Preferred Stock"), and a warrant (the "Warrant")
+to purchase up to 1,900,000 shares of our Common Stock at an exercise price of
+$10.075 per share, subject to anti-dilution adjustments. The Warrant has a term
+of seven years, expiring June 1, 2007. There are no redemption features to the
+Series B Preferred Stock. The aggregate purchase price for these instruments was
+$30.0 million, of which approximately $26.5 million was allocated to the Series
+B Preferred Stock and approximately $3.5 million to the Warrant. The net
+proceeds from the sale were used to repay indebtedness.
+
+         For the next twelve months, we anticipate total capital expenditures of
+approximately $26 million, primarily associated with the purchase of composite
+mats.
+
+                                       20
+
+<PAGE>   21
+
+         Approximately $7 million of operating lease funding was obtained in
+2000 for the leasing of new composite mats. We have also obtained a commitment
+for up to $5 million of additional operating lease financing for new composite
+mats, which we expect to utilize in the fourth quarter of 2000. We are in the
+process of selling our office building in Lafayette, Louisiana that should yield
+approximately $3.2 million. We plan to subsequently lease this facility from the
+new owner under an operating lease.
+
+         Potential sources of additional funds, if required, would include
+additional operating leases for equipment, selling certain assets and selling
+equity securities or subordinated debt securities. Other than as discussed
+above, we presently have no commitments beyond our working capital and bank
+lines of credit by which we could obtain additional funds for current
+operations. However, we regularly evaluate potential borrowing arrangements
+which we may utilize to fund future expansion. We believe that our current
+sources of capital, coupled with internally generated funds, will be sufficient
+to support our working capital, capital expenditures and debt service
+requirements for the foreseeable future provided that market conditions
+stabilize or continue to improve from current levels. Any long-term downturn in
+market conditions could have an adverse affect on our financial position,
+results of operations and future available capital. Such a downturn would likely
+result in reductions in planned capital expenditures and reassessment of our
+operations and business strategy in light of these market conditions.
+
+         Except as described in the preceding paragraphs, we are not aware of
+any material expenditures, significant balloon payments or other payments on
+long term obligations or any other demands or commitments, including off-balance
+sheet items to be incurred within the next 12 months. Inflation has not
+materially impacted our revenues or income.
+
+YEAR 2000 UPDATE
+
+         In prior years, we have disclosed the nature and progress of our plans
+to address the year 2000 issue. By the end of 1999, we completed our remediation
+and testing of our critical information technology and non-information
+technology systems. As a result of those efforts, we experienced no significant
+disruptions in those systems and believe those systems successfully responded to
+the year 2000 date change. We expended less than $100,000 during 1998 and 1999
+in connection with remediating our systems. We are not aware of any material
+problems resulting from year 2000 issues, either with our product or service
+offerings, our internal systems or the products and services of third parties.
+We will continue to monitor our critical computer applications and those of our
+suppliers and vendors throughout the year 2000 to ensure that any latent year
+2000 matters that may arise are addressed promptly.
+
+FORWARD-LOOKING STATEMENTS
+
+         The foregoing discussion contains "forward-looking statements" within
+the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934. There are risks and uncertainties that could
+cause future events and results to differ materially from those anticipated by
+us in the forward-looking statements included in this report. Among these risks
+and uncertainties are the following:
+
+                                       21
+
+<PAGE>   22
+
+     o    oil and gas exploration and production levels and the industry's
+          willingness to spend capital on environmental and oilfield services;
+
+     o    oil and gas prices, expectations about future prices, the cost of
+          exploring for, producing and delivering oil and gas, the discovery
+          rate of new oil and gas reserves and the ability of oil and gas
+          companies to raise capital;
+
+     o    domestic and international political, military, regulatory and
+          economic conditions;
+
+     o    other risks and uncertainties generally applicable to the oil and gas
+          exploration and production industry;
+
+     o    existing regulations affecting E&P and NORM waste disposal being
+          rescinded or relaxed, governmental authorities failing to enforce
+          these regulations or industry participants being able to avoid or
+          delay compliance with these regulations;
+
+     o    future technological change and innovation, which could result in a
+          reduction in the amount of waste being generated or alternative
+          methods of disposal being developed;
+
+     o    increased competition in our product lines;
+
+     o    our success in integrating acquisitions;
+
+     o    our success in replacing our wooden mat fleet with our new composite
+          mats;
+
+     o    our ability to obtain the necessary permits to operate our
+          non-hazardous waste disposal wells and our ability to successfully
+          compete in this market;
+
+     o    our ability to successfully compete in the drilling fluids markets in
+          the Canadian provinces of Alberta and Saskatchewan, the Permian Basin
+          of West Texas and New Mexico and the Anadarko Basin in Western
+          Oklahoma, where we have only recently entered the market; and
+
+     o    adverse weather conditions, which could disrupt drilling operations.
+
+
+                                       22
+
+<PAGE>   23
+
+
+
+PART II
+
+ITEM 6.           EXHIBIT AND REPORTS ON FORM 8-K
+
+         (a)      Exhibits
+
+                  27.  Financial Data Schedule
+
+         (b)      Reports on Form 8-K
+
+                  None.
+
+
+                                       23
+
+<PAGE>   24
+
+
+
+                             NEWPARK RESOURCES, INC.
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+
+Date:  November 10, 2000
+
+
+                                        NEWPARK RESOURCES, INC.
+
+
+
+
+                                        By:  /s/Matthew W. Hardey
+                                             ----------------------------------
+                                             Matthew W. Hardey, Vice President
+                                               and Chief Financial Officer
+
+
+
+                                       24
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>d81832ex27.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                           2,273
+<SECURITIES>                                         0
+<RECEIVABLES>                                   73,340
+<ALLOWANCES>                                     4,133
+<INVENTORY>                                     24,524
+<CURRENT-ASSETS>                               114,533
+<PP&E>                                         240,545
+<DEPRECIATION>                                  58,653
+<TOTAL-ASSETS>                                 469,816
+<CURRENT-LIABILITIES>                           44,561
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                     43,410
+<COMMON>                                           695
+<OTHER-SE>                                     179,568
+<TOTAL-LIABILITY-AND-EQUITY>                   469,816
+<SALES>                                        186,466
+<TOTAL-REVENUES>                               186,466
+<CGS>                                          112,045
+<TOTAL-COSTS>                                  156,359
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              13,926
+<INCOME-PRETAX>                                 10,846
+<INCOME-TAX>                                     4,380
+<INCOME-CONTINUING>                              6,466
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     6,466
+<EPS-BASIC>                                       0.02
+<EPS-DILUTED>                                     0.02
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

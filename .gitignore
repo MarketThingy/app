@@ -1,8 +1,8 @@
 # Virtual Environment
 .direnv
 
-# Data files
-archive/
-
 # Temporary files
 *.pyc
+
+# Generated files
+test_files/output

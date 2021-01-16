@@ -39,14 +39,18 @@ def download(symbol: Tuple[str], target: str, filing: Tuple[str]):
 
 
 @cli.command()
-@click.option('--target',
+@click.option('--source',
               type=click.Path(exists=True),
               required=True,
               help='Parent directory that houses downloaded files')
-def process(target):
+@click.option('--target',
+              type=click.Path(exists=False),
+              help=('Directory to write the output files. Defaults to SOURCE.'
+                    ' Will be created if it does not exit'))
+def process(source, target):
     '''Process files that have been downloaded.'''
 
-    thingy.processors.all(target, logger=structlog.get_logger())
+    thingy.processors.all(source=source, target=target, logger=structlog.get_logger())
 
 
 if __name__ == '__main__':
