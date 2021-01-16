@@ -1,0 +1,26 @@
+@extends("template.html")
+@require(symbol, filing, archive, headers, documents)
+
+
+@def title():
+    Expanded archive of @archive (@symbol @filing)
+@end
+
+
+@def header():
+    <h1>Expanded archive of @archive (@symbol @filing)</h1>
+    <p>The following filing files have been extracted from @archive</p>
+@end
+
+
+@def content():
+    <pre>@headers</pre>
+    @for extension, files in documents.items():
+        <h2>@extension</h2>
+        <ul>
+        @for filename, description in files.items():
+        <li><a href="./@filename">@filename</a> - @description</li>
+        @end
+        </ul>
+    @end
+@end

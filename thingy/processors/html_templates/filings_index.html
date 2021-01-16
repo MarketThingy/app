@@ -1,0 +1,22 @@
+@extends("template.html")
+@require(symbol, filings)
+
+
+@def title():
+    Filings Available for @symbol
+@end
+
+
+@def header():
+    <h1>Filings Available for @symbol</h1>
+    <p>The following filing codes have been downloaded to this server</p>
+@end
+
+
+@def content():
+    <ul>
+    @for filing in filings:
+        <li><a href="./@filing/">@filing</a></li>
+    @end
+    </ul>
+@end

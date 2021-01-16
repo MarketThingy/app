@@ -1,0 +1,22 @@
+@extends("template.html")
+@require(symbols)
+
+
+@def title():
+    Symbols
+@end
+
+
+@def header():
+    <h1>Symbols Available</h1>
+    <p>The following symbols have been downloaded to this server</p>
+@end
+
+
+@def content():
+    <ul>
+    @for symbol in symbols:
+        <li><a href="./@symbol/">@symbol</a></li>
+    @end
+    </ul>
+@end

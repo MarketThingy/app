@@ -1,0 +1,22 @@
+@extends("template.html")
+@require(symbol, filing, archives)
+
+
+@def title():
+    @symbol @filing's Available
+@end
+
+
+@def header():
+    <h1>@symbol @filing's Available</h1>
+    <p>The following filing archives have been downloaded to this server</p>
+@end
+
+
+@def content():
+    <ul>
+    @for directory, date in archives.items():
+        <li><a href="./@directory/">@date</a></li>
+    @end
+    </ul>
+@end

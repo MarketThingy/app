@@ -1,0 +1,35 @@
+@require(today)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <title>
+        @def title():
+        @end
+        @title() :: Market Thingy
+    </title>
+</head>
+<body>
+  <header>
+      @def header():
+      @end
+      @header()
+  </header>
+
+  <main>
+      @def content():
+      @end
+      @content()
+  </main>
+
+  <footer>
+
+      @def footer():
+        This file was generated at @today
+      @end
+      @footer()
+  </footer>
+</body>
+</html>
