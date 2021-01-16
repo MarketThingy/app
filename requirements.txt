@@ -4,3 +4,4 @@ structlog==20.2.0
 wheezy.html==3.0.1
 wheezy.template==3.0.3
 pyyaml==5.3.1
+regex==2020.11.13

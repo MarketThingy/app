@@ -2,7 +2,7 @@ from __future__ import annotations
 import structlog
 import pathlib
 import textwrap
-import re
+import regex
 import codecs
 import structlog
 import collections
@@ -26,11 +26,11 @@ from typing import List
 
 
 class REGEXPS:
-    HEADER = re.compile(r'<sec-header>(.*)</sec-header>', re.IGNORECASE | re.DOTALL)
-    DOCUMENT = re.compile(r'<document>(.*?<text>.+?</text>.*?)</document>', re.IGNORECASE | re.DOTALL)
-    ATTRS = re.compile(r'^<(.+?)>(.+)$', re.IGNORECASE | re.MULTILINE)
-    TEXT = re.compile(r'<text>(.*)</text>', re.IGNORECASE | re.DOTALL)
-    IS_UUENCODED = re.compile(r'^\s*begin \d+ .*end\s*$', re.DOTALL)
+    HEADER = regex.compile(r'<sec-header>(.*)</sec-header>', regex.IGNORECASE | regex.DOTALL)
+    DOCUMENT = regex.compile(r'<document>(.*?<text>.+?</text>.*?)</document>', regex.IGNORECASE | regex.DOTALL)
+    ATTRS = regex.compile(r'^<(.+?)>(.+)$', regex.IGNORECASE | regex.MULTILINE)
+    TEXT = regex.compile(r'<text>(.*)</text>', regex.IGNORECASE | regex.DOTALL)
+    IS_UUENCODED = regex.compile(r'^\s*begin \d+ .*end\s*$', regex.DOTALL)
 
 
 class _EDGAR_Document:
