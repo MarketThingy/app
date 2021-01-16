@@ -27,9 +27,9 @@ from typing import List
 
 class REGEXPS:
     HEADER = regex.compile(flags=regex.IGNORECASE | regex.DOTALL | regex.VERBOSE, pattern=r'''
-        <sec-header>    # opening tag
-        (.*)            # header content
-        </sec-header>   # closing tag''')
+        <(sec|ims)-header>      # opening tag (either SEC-HEADER or IMS-HEADER)
+        (.*)                    # header content
+        </\1-header>            # closing tag that matches the opening tag''')
     HEADER_CONTENTS = regex.compile(flags=regex.MULTILINE | regex.VERBOSE, pattern=r'''
          ^                          # beginning of the line
          .*?                        # discard any text at the beginning of the line (non-greedy)
@@ -131,12 +131,12 @@ class EDGAR_Archive:
         self.header = None
         self.documents = _EDGAR_Document.find_all(content, self.logger)
 
-        if (result := REGEXPS.HEADER.search(content)) is not None:
+        if (result := REGEXPS.HEADER.findall(content)) is not None:
             # The header content is in YAML ... but of course it is not quite YAML
             # ... so we'll parse out the elements and then form proper YAML that we can parse
             header_txt = '\n'.join(
                 f'{" " * 4 * len(spacing)}{key}:' + (f' "{value.strip()}"' if value else '')
-                for spacing, key, value in REGEXPS.HEADER_CONTENTS.findall(result.groups()[0])
+                for spacing, key, value in REGEXPS.HEADER_CONTENTS.findall(result[0][1])
             )
             try:
                 self.header = yaml.safe_load(header_txt)
