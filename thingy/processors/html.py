@@ -57,15 +57,19 @@ class HTML_Index:
             filings=[path.stem for path in self._dirs(symbol)])
 
     def _create_archive_index(self, symbol: Path, filing: Path):
+        # Store all the dates so we can sort by date
+        map_date_archive = dict()
+        for archive in self._dirs(filing):
+            with open(archive / 'meta.json') as fp_json:
+                date = json.load(fp_json)['header']['FILED AS OF DATE']
+                map_date_archive[date] = archive.stem
+
         self.logger.debug('creating archive index', symbol=symbol, filing=filing)
         archives = dict()
 
-        for path in self._dirs(filing):
-            with open(path / 'meta.json') as fp_json:
-                meta = json.load(fp_json)
-                filing_date_str = str(meta['header']['FILED AS OF DATE'])
-                filing_date_obj = datetime.datetime.strptime(filing_date_str, '%Y%m%d')
-                archives[path.stem] = filing_date_obj.strftime('%Y %B %d')
+        for filing_date_str, dirname in sorted(map_date_archive.items(), reverse=True):
+            filing_date_obj = datetime.datetime.strptime(filing_date_str, '%Y%m%d')
+            archives[dirname] = filing_date_obj.strftime('%Y %B %d')
 
         self._render(
             'archives_index.html',
